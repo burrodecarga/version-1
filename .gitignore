@@ -34,8 +34,8 @@ yarn-error.log*
 .vercel
 
 #
-#_cacache
-#_libvips
+_cacache
+_libvips
 _looks
-#_prebuilds
+_prebuilds
 _old
